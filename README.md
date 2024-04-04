@@ -28,7 +28,7 @@
 </p>
 
 
-# ShareX Social Media Flask
+# ShareX Media Flask
 
 ## Overview
 This project is a comprehensive web application built with Flask, designed to provide users with a rich multimedia sharing and social networking experience. It combines features such as video reel sharing, real-time chat, live streaming, event booking, and social networking functionalities like following other users. The application aims to create a dynamic and interactive platform where users can connect, share content, communicate, and engage with each other in various ways.
